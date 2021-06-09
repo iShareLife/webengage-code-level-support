@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aps-environment</key>
+	<string>development</string>
+	<key>com.apple.developer.applesignin</key>
+	<array>
+		<string>Default</string>
+	</array>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:www.medstream.com.br</string>
+		<string>applinks:medstream.com.br</string>
+		<string>applinks:app.medstream.com.br</string>
+		<string>applinks:medstream.app</string>
+		<string>applinks:go.medstream.app</string>
+		<string>activitycontinuation:www.medstream.com.br</string>
+		<string>activitycontinuation:medstream.com.br</string>
+		<string>activitycontinuation:app.medstream.com.br</string>
+		<string>activitycontinuation:medstream.app</string>
+		<string>activitycontinuation:go.medstream.app</string>
+		<string>webcredentials:www.medstream.com.br</string>
+		<string>webcredentials:medstream.com.br</string>
+		<string>webcredentials:app.medstream.com.br</string>
+		<string>webcredentials:medstream.app</string>
+		<string>webcredentials:go.medstream.app</string>
+	</array>
+	<key>com.apple.security.application-groups</key>
+	<array/>
+</dict>
+</plist>

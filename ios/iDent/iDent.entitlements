@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aps-environment</key>
+	<string>development</string>
+	<key>com.apple.developer.applesignin</key>
+	<array>
+		<string>Default</string>
+	</array>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:www.ident.com.br</string>
+		<string>applinks:ident.com.br</string>
+		<string>applinks:www.ident.app</string>
+		<string>applinks:ident.app</string>
+		<string>applinks:go.ident.app</string>
+		<string>activitycontinuation:www.ident.com.br</string>
+		<string>activitycontinuation:ident.com.br</string>
+		<string>activitycontinuation:www.ident.app</string>
+		<string>activitycontinuation:ident.app</string>
+		<string>activitycontinuation:go.ident.app</string>
+		<string>webcredentials:www.ident.com.br</string>
+		<string>webcredentials:ident.com.br</string>
+		<string>webcredentials:www.ident.app</string>
+		<string>webcredentials:ident.app</string>
+		<string>webcredentials:go.ident.app</string>
+	</array>
+	<key>com.apple.security.application-groups</key>
+	<array/>
+</dict>
+</plist>
